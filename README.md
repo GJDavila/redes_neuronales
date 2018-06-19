@@ -1,3 +1,3 @@
 # redes_neuronales
 
-LEER Informe.pdf para ver como utilizar la red neuronal.
+LEER informe_davila.pdf para ver como utilizar la red neuronal.
